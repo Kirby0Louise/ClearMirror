@@ -1,0 +1,12 @@
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\bin\x64\Debug\ClearMirror.exe.config
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\bin\x64\Debug\ClearMirror.exe
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\bin\x64\Debug\ClearMirror.pdb
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\bin\x64\Debug\ClearMirror.xml
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\obj\x64\Debug\ClearMirror.vbproj.AssemblyReference.cache
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\obj\x64\Debug\ClearMirror.frmMain.resources
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\obj\x64\Debug\ClearMirror.Resources.resources
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\obj\x64\Debug\ClearMirror.vbproj.GenerateResource.cache
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\obj\x64\Debug\ClearMirror.vbproj.CoreCompileInputs.cache
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\obj\x64\Debug\ClearMirror.exe
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\obj\x64\Debug\ClearMirror.xml
+C:\Users\darkm\source\repos\ClearMirror\ClearMirror\obj\x64\Debug\ClearMirror.pdb
